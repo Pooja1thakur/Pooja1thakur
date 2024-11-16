@@ -1,7 +1,7 @@
 ![logo](https://github.com/Pooja1thakur/Pooja1thakur/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Pooja Thakur</h1>
-<h3 align="center">Aspiring full stack web developer at Up Grad Knowledge hut. Self-motivated and curious with a keen interest in building user-friendly projects. Like to build user friendly products and web applications with a specialization in MERN stack.</h3>
+<h3 align="center">Aspiring full stack web developer at Masai School. Self-motivated and curious with a keen interest in building user-friendly projects. Like to build user friendly products and web applications with a specialization in MERN stack.</h3>
 
 <img  align="right" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, JavaScript, NodeJS, Express, MongoDB.**
 
-- 📫 How to reach me **pooja.th.182@gmail.com**
+- 📫 How to reach me **pooja2810rohit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
