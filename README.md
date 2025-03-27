@@ -1,7 +1,7 @@
 ![logo](https://github.com/Pooja1thakur/Pooja1thakur/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Pooja Thakur</h1>
-<h3 align="center">Aspiring full stack web developer at Masai School. Self-motivated and curious with a keen interest in building user-friendly projects. Like to build user friendly products and web applications with a specialization in MERN stack.</h3>
+<h3 align="center">Aspiring full stack web developer. Self-motivated and curious with a keen interest in building user-friendly projects. Like to build user friendly products and web applications with a specialization in MERN stack.</h3>
 
 <img  align="right" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
